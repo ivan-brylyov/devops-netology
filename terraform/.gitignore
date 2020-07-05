@@ -32,5 +32,3 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-#Ignore my ingnore_test_file.txt
-ingnore_test_file.txt

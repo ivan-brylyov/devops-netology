@@ -5,3 +5,5 @@
 Игнорировать файлы crash.log;
 Игнорировать файлы override.tf, override.tf.json и содержащие в конце имени файла _override.tf, _override.tf.json;
 Игнорировать файлы .terraformrc и terraform.rc;
+
+Новая строка для Задания 3
